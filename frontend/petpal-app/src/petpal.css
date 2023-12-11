@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  background-color: #E8E5DA !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.custom-navbar {
+  background-color: #CDC392;
+}
+
+.border-bottom {
+    border-color: black;
+}
+
+footer {
+    background-color: #CDC392;
+}
+
+.custom-login {
+  background-color: #FCFAF9;
+}
+
+.btn {
+    background-color: #648DE5 !important;
+    border-color: #648DE5 !important;
+    color: white !important;
+}
+
+.btn:hover {
+    background-color: #304C89 !important;
+}
+
+/* Got this from stackoverflow */
+.caret-off::before {
+    display: none !important;
+}
+.caret-off::after {
+    display: none !important;
+}
+/* Got this from stackoverflow */
+
+.profile_pic {
+    border-radius: 50%;
+}
+
+.dropdown-menu {
+    background-color: #E8E5DA !important;;
+}
+
+.dropdown-item:hover {
+    background-color: #CDC392 !important;
+}
+
+.notif-text {
+    border-color: black !important;
+    border-radius: 10px !important;
+    border-width: 2px !important;
+}
+
+.card {
+    transition-duration: 0.25s !important;
+}
+
+.card:hover {
+    border-color: #304C89 !important;
+    transition-duration: 0.25s !important;
+}
+
+#special_dropdown {
+    min-width: 30vw !important;
+}
+
+@media (min-width: 992px) {
+    .rounded-lg-3 { border-radius: .3rem; }
+  }

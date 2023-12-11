@@ -1,0 +1,17 @@
+# This text file should explain how to deploy your website.
+
+# You should write detailed description on:
+
+# 1. All the packages you need to install
+# 2. How to configure various servers (e.g., Nginx, Apache, etc)
+
+# BACKEND 
+# run bash startup.sh
+# run bash run.sh
+
+# FRONTEND
+# run npm install
+# run npm start
+
+# By following the above instruction you should be able to run the application
+# run the backend and frontend commands on two sepearte terminals
